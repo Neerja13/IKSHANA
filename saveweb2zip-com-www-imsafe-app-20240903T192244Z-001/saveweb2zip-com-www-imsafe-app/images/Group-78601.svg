@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="110.571" height="38.554" viewBox="0 0 110.571 38.554">
+  <g id="Group_78601" data-name="Group 78601" transform="translate(3155 3231.274)">
+    <g id="Rectangle_24155" data-name="Rectangle 24155" transform="translate(-3155 -3231.274)" fill="#fff2bc" stroke="#000" stroke-width="2">
+      <rect width="110.571" height="38.554" rx="19.277" stroke="none"></rect>
+      <rect x="1" y="1" width="108.571" height="36.554" rx="18.277" fill="none"></rect>
+    </g>
+    <text id="Safety" transform="translate(-3131.722 -3204.364)" fill="#1d1d1d" font-size="21" font-family="VisbyCF-DemiBold, Visby CF" font-weight="300">
+      <tspan x="0" y="0">Safety</tspan>
+    </text>
+  </g>
+</svg>

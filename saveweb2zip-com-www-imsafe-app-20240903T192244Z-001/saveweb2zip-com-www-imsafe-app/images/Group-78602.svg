@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="123.996" height="38.581" viewBox="0 0 123.996 38.581">
+  <g id="Group_78602" data-name="Group 78602" transform="translate(2803.649 3230.903)">
+    <g id="Rectangle_25584" data-name="Rectangle 25584" transform="translate(-2803.649 -3230.903)" fill="#ffc6d5" stroke="#000" stroke-width="2">
+      <rect width="123.996" height="38.581" rx="19.29" stroke="none"></rect>
+      <rect x="1" y="1" width="121.996" height="36.581" rx="18.29" fill="none"></rect>
+    </g>
+    <text id="Training" transform="translate(-2777.651 -3204.613)" fill="#1d1d1d" font-size="19" font-family="VisbyCF-DemiBold, Visby CF" font-weight="300">
+      <tspan x="0" y="0">Training</tspan>
+    </text>
+  </g>
+</svg>

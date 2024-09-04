@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="91.465" height="37.579" viewBox="0 0 91.465 37.579">
+  <g id="Group_78600" data-name="Group 78600" transform="translate(3292 3231.274)">
+    <g id="Rectangle_24154" data-name="Rectangle 24154" transform="translate(-3292 -3231.274)" fill="#fabfff" stroke="#000" stroke-width="2">
+      <rect width="91.465" height="37.579" rx="18.789" stroke="none"></rect>
+      <rect x="1" y="1" width="89.465" height="35.579" rx="17.789" fill="none"></rect>
+    </g>
+    <text id="PoSH" transform="translate(-3270.02 -3205.438)" fill="#1d1d1d" font-size="20" font-family="VisbyCF-DemiBold, Visby CF" font-weight="300">
+      <tspan x="0" y="0">PoSH</tspan>
+    </text>
+  </g>
+</svg>
